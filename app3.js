@@ -16,6 +16,3 @@
 // let quantity = prompt("How msny products a visitor wants to order");
 // let product = prompt("Product Title");
 // document.write(userName ," ", "ordered" ," ", quantity ,"-", product ," ", "on XYZ Clothing store");
-
-
-// Question No:5
